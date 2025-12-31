@@ -120,7 +120,6 @@ If required environment variables are missing, the application will fail fast du
 
 | Name | Student ID | GitHub |
 |------|------------|--------|
-| Ava Samimi | 40048117 | GitHub username |
 | Mostafa Mohamed | 40201893 | Mustafa-M422 |
 
 ---
